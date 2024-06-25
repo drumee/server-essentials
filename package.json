@@ -1,27 +1,14 @@
 {
   "name": "@drumee/server-essentials",
-  "version": "1.1.85",
+  "version": "1.1.0",
   "description": "Drumee server essential components",
   "main": "lib/index.js",
-  "scripts": {
-    "install": "npm run get:dev:tools",
-    "get:dev:tools": "export PROJECT_ID=57 && npm i --save-dev @drumee/dev-tools",
-    "update": "export PROJECT_ID=57 && npm update",
-    "test": " npm run test:modules && npm run test:db && npm run test:cache",
-    "show:cache": "node lib/test/cache.js",
-    "show:sysEnv": "node lib/test/sysEnv.js",
-    "test:crypto": "node lib/test/subtleCrypto.js",
-    "test:db": "node lib/test/db.js",
-    "test:modules": "node lib/test/cache.js",
-    "pubnpush": "export PROJECT_ID=40 && npm publish && git push && npm version patch",
-    "release": "git commit -am '[FIX] messenger + mariadb config' && npm run pubnpush"
-  },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.drumee.in:drumee/server-essentials.git"
+    "url": "https://github.com/somanos/drumee-server-essentials.git.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Somanos Sar <somanos@drumee.com>",
+  "license": "AGPL",
   "dependencies": {
     "backbone": "^1.4.0",
     "https": "^1.0.0",
