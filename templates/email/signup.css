@@ -1,0 +1,77 @@
+/*.signup-message-container{
+    min-height: 509px;
+    width:450px;
+    background-color: #ffffff;
+    border-radius:4px;
+    padding:1px; /*20px ; 26px;
+    margin:0 auto;
+    box-shadow: 0 5px 7px 1px rgba(63,79,117,.13), 0 5px 14px 0 rgba(86,65,113,.08), 0 2px 13px 0 rgba(194,185,203,0) !important;
+}
+.signup-email-container{
+    width: 100%;
+    text-align: center;
+    word-break: break-word;
+    display: flex;
+    margin-top: 40px;
+    margin-bottom:0px;
+}
+
+/*.signup-email{
+    margin:0 auto;
+    color:#FA8540;
+    /*color:white;
+    background-color:#B6BFCA;/*#c3cde6;#FA8540;#879BFF;
+    padding:8px; /*5px;
+    line-height: 1.4em;
+    font-size: 22px;
+    font-family: Calibri;
+    font-weight:500;
+    border-radius:2px;
+}*/
+.signup-message{
+    color: #787B7F;
+    font-family: Calibri;
+    font-size: 18px; /*14px;*/
+    line-height: 24px; /*22px;*/
+    text-align:left;
+    word-break: break-word;
+}
+.text.password{
+    margin-bottom:-10px;
+}
+
+.signup-text-container{
+    width: 331px;
+    height:66px;
+    margin-top:80px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.signup-link-container{
+    width:304px; /*331px;*/
+    /*height:34px;*/
+    background-color: #879BFF;
+    border-radius:2px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    word-break: break-all;
+}
+.signup-link{
+    font-size: 16px;
+    color:#ffffff;
+    font-weight: 400;
+    word-break: break-all;
+    /*line-height:20px;*//*18px;*/
+   /* padding-bottom:15px; 
+    padding-top:10px; /*16px;
+    padding-left:10px;
+    padding-right: 10px;*/
+    text-align: center;
+    font-family: Calibri;
+    white-space: pre-line;
+    word-spacing: normal;
+}

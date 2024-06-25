@@ -1,0 +1,38 @@
+{
+  "name": "@drumee/server-essentials",
+  "version": "1.1.85",
+  "description": "Drumee server essential components",
+  "main": "lib/index.js",
+  "scripts": {
+    "install": "npm run get:dev:tools",
+    "get:dev:tools": "export PROJECT_ID=57 && npm i --save-dev @drumee/dev-tools",
+    "update": "export PROJECT_ID=57 && npm update",
+    "test": " npm run test:modules && npm run test:db && npm run test:cache",
+    "show:cache": "node lib/test/cache.js",
+    "show:sysEnv": "node lib/test/sysEnv.js",
+    "test:crypto": "node lib/test/subtleCrypto.js",
+    "test:db": "node lib/test/db.js",
+    "test:modules": "node lib/test/cache.js",
+    "pubnpush": "export PROJECT_ID=40 && npm publish && git push && npm version patch",
+    "release": "git commit -am '[FIX] messenger + mariadb config' && npm run pubnpush"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.drumee.in:drumee/server-essentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "https": "^1.0.0",
+    "jsonfile": "^5.0.0",
+    "lodash": "^4.17.21",
+    "mariadb": "^3.0.0",
+    "nodemailer": "^6.9.2",
+    "redis": "^4.6.6",
+    "sanitize-html": "^2.10.0"
+  },
+  "devDependencies": {
+    "@drumee/dev-tools": "^0.0.5"
+  }
+}

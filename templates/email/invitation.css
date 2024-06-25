@@ -1,0 +1,38 @@
+.invitation_cont{
+    /*padding-bottom:25px; /*30px;*/
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.invitation_container{
+   /*display: flex;
+    margin-left: 50px;
+    margin-right: 50px;*/
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.invitation_text{
+    color: #787B7F;
+    font-family: Calibri;
+    font-size: 16px;/*18px;*/
+    line-height: 18px;/*24px;*/
+    text-align: left;
+    word-break: break-word;
+    margin-top: 0px;
+    margin-bottom:15px; /*0px*/
+}
+.account{
+    color: #4A90E2;
+    font-family: Calibri;
+    font-size: 16px;/*18px;*/
+    line-height: 24px;
+    text-align: left;
+    font-weight: 500;
+    margin-bottom:0px;
+}
+
+
+
+
+

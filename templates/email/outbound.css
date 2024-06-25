@@ -1,0 +1,97 @@
+/*.message-container-text{
+    min-height: 509px;
+    width:450px;
+    background-color: #ffffff;
+    border-radius:4px;
+    padding:1px; /*20px ; 26px;
+    margin:0 auto;
+    box-shadow: 0 5px 7px 1px rgba(63,79,117,.13), 0 5px 14px 0 rgba(86,65,113,.08), 0 2px 13px 0 rgba(194,185,203,0) !important;
+}
+
+/*.text{
+    width: 331px;
+    height:66px;
+    color: #787B7F;
+    font-family: Calibri;
+    font-size: 14px;
+    line-height: 22px;
+    text-align:left;
+    word-break: break-word;
+    margin-top:80px;
+    margin-left:auto;
+    margin-right:auto;
+}*/
+.outbound-text-share{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.outbound-files-list{
+    min-width: 168px;
+    /* height: 42px; */
+    /* color: #787B7F; 
+    margin-top: 5px;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px; /*20px;*/
+}
+.outbound-share-file{
+    width:100%;
+    color: #4A90E2;
+    font-weight: 400;
+    font-family: Calibri;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    margin-top:15px;
+    word-break: break-word;
+}
+.outbound-name{
+    padding-right:7px;
+}
+.outbound-text_link{
+    font-size: 16px;/*18px;*/
+    color:#ffffff;
+    /*font-weight: 400;*/
+    text-align: center;
+    font-family: Calibri;
+    line-height:30px;
+}
+    /*line-height:20px;18px;
+    padding-bottom:15px; 
+    padding-top:10px; /*16px;
+    padding-left:10px;
+    padding-right: 10px;*/
+
+   
+/*.signature{
+    height:17px;
+    width:331;
+    color:#4A90E2;
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight:500;
+    line-height: 17px;
+    text-align:left;
+    word-break: break-word;
+    margin-top:65px;
+    margin-bottom:105px;
+    margin-left:60px;
+   /* margin-right:50px;
+}*/
+/*.link-container{
+    width:304px; /*331px;*/
+    /*height:34px;
+    background-color: #879BFF;
+    border-radius:2px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 59px;
+}*/
+
+
+
+
+
+
+
