@@ -1,1 +1,4 @@
-Essentials modules to run every Drumee back-end components
+Essentials library to run every Drumee Backend Services
+Drumee User Interface Development Helper
+```console
+npm i --save-dev @drumee/@drumee/server-essentials

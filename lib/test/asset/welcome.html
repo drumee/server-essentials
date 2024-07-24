@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Installation completed!</title>
+  <style>
+    body {
+      background: linear-gradient(to bottom right, #6cb6f3, #113be5);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    h1 {
+      color: #f2f6f5;
+    }
+
+    p {
+      color: #f1f5f4;
+      font-size: 1.2em;
+      line-height: 1, 2;
+    }
+
+    a {
+      color: #eef0f1;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Test succeeded!</h1>
+  <p>Congratulations! your template <%= name %> is now online!</p>
+  <p>Open below URL to set the admin password</p>
+  <p><a href="<%= link %>"><%= link %></a></p>
+  <p>Enjoy!</p>
+</body>
+
+</html>
