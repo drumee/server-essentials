@@ -1,4 +1,5 @@
 Essentials library to run every Drumee Backend Services
-Drumee User Interface Development Helper
+Drumee Server Common Library
 ```console
 npm i --save-dev @drumee/@drumee/server-essentials
+```
