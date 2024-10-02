@@ -1,9 +1,3 @@
-// ================================== *
-//   Copyright Xialia.com  2011-2017
-//   FILE : server/src/lex/constants
-//   MANDATORY: various constants     *
-// ================================== *
-
 const a = {
   ACCEL_REDIRECT     : 'X-Accel-Redirect',
   ACCEL_STATIC_DIR   : "/srv/www/direct",
@@ -183,7 +177,7 @@ const a = {
 
   AUDIO_PLAY_OPT : ' -c:a aac -strict experimental ',
 
-  DUMPDB     : '/usr/bin/mariadb-dump ',
+  DB_DUMP    : '/usr/bin/mariadb-dump',
   COFFEE     : '/usr/bin/coffee ',
   SASS       : '/usr/bin/sass ',
   PDFINFO    : '/usr/bin/pdfinfo',
@@ -417,11 +411,6 @@ const a = {
   VIDEO             : 'video',
   WORKER            : 'worker',  
 
-  // Action constants
-  ADD_CONTRIBUTOR         : 'add_contributor',
-  ADD_CONTACT             : 'add_contact',
-  DELETE_DRUMATE_ACCOUNT  : 'delete_drumate_account',
-  SHARE_MEDIA             : 'share_media',
 
   // others
   DESKTOP       : 'desktop',
@@ -441,25 +430,6 @@ const a = {
     LIVE_UPDATE_CHANNEL : 'LIVE_UPDATE_CHANNEL'
   },
 
-
-  // others
-  VERSION      : {
-    RENDERER   : '1.1',
-    LETC       : '1.2.0'
-  },
-
-
-  // USERS/COMMUNITIES/DIRECTORIES
-  USER_DIR_MOD          : '0770',
-  COMMUNITY_DIR_MOD     : '0770',
-  PUBLIC_DIR            : 'public',
-  RESTRICTED_DIR        : 'restricted',
-  PRIVATE_DIR           : 'private',
-  DIR_PHOTOS            : 'Photos',
-  DIR_VIDEOS            : 'Videos',
-  DIR_MUSICS            : 'Musics',
-  DIR_DOCS              : 'Documents',
-  DIR_THUMBS            : '.Thumbs',
 
   //PERMISSION FOR ACCESSING CONTROLED RESSOURCES
   PERM_HUB_OWNER     : 32, // 0x20 //b'00010000'
@@ -564,6 +534,9 @@ const a = {
   PHONE_CHECKER        : new RegExp(/^[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\./0-9]*$/) 
 };
 
+const { existsSync } = require("fs");
+if (!existsSync(a.DB_DUMP)) {
+  a.DB_DUMP = '/usr/bin/mysqldump';
+}
 
-    
 module.exports = a;
