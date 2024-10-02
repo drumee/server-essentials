@@ -527,5 +527,6 @@
   "_enable": "Activer",
   "_otp_code": "{0} est votre code de validation pour vous connecter à {1}. Ne le partagez avec personne. Valide jusqu'à {2}.",
   "_your_otp": "Votre code de validation",
-  "_my_share_box": "Ma boîte de partage interne"
+  "_my_share_box": "Ma boîte de partage interne",
+  "_my_dmz_box": "Ma boîte de partage externe"
 }

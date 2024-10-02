@@ -26,5 +26,6 @@
   "_enable": "Permitir",
   "_otp_code": "{0} es tu código de validación para iniciar sesión {1}. No lo compartas con nadie. Válido hasta el {2}.",
   "_your_otp": "Tu código de validación",
-  "_my_share_box": "Mi casilla de recursos compartida interna"
+  "_my_share_box": "Mi casilla de recursos compartida interna",
+  "_my_dmz_box": "Mi cuadro de recursos compartidos externo"
 }

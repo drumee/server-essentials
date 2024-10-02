@@ -527,5 +527,6 @@
   "_enable": "Enable",
   "_otp_code": "{0} is your validation code to sign in {1}. Do not share it with anyone. Valid until {2}.",
   "_your_otp": "Your validation code",
-  "_my_share_box": "My internal sharebox"
+  "_my_share_box": "My internal sharebox",
+  "_my_dmz_box": "My external sharebox"
 }
