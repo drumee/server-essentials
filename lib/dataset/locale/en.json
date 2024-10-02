@@ -392,8 +392,6 @@
   "_insufficient_privilege": "Insufficient privilege",
   "_x_add_you_to_team": "{0} added you to team {1}.",
   "_download_link_ready": "Your download link is ready",
-  "_otp_code": "Here is your one-time authentication code: {0}, valid until {1}.",
-  "_your_otp": "Your one-time code",
   "_account_deletion_email": "You have just deleted your Drumee desktop. For legal and security reasons, your data will be kept for 30 days. Of course, no one can access it anymore. They will be permanently deleted at the end of this period.\n\nIn the meantime, if you change your mind, simply click on the link below.",
   "_account_deleted": "Your account has been deleted",
   "_account_deletion_leave_comments": "Tell us shortly why you leave Drumee",
@@ -523,5 +521,11 @@
   "_installation_ack": "The installation of your Cloud Drumee has been successfully completed. Click on the link below to validate your administrator account",
   "_licence_send_installation_failed_msg": "Your installation has failed due to below reson <br> Please contact our admin for more details  <br> <br> reason:",
   "_licence_send_installation_failed_sub": "Installation Failed",
-  "_read_install_manual": "Read installation manual"
+  "_read_install_manual": "Read installation manual",
+  "_installation_message": "Regarding the current installation of your Drumee server, you have generated a token activation link to manage your domain's DNS records. Please validate it by clicking on the link below.",
+  "_your_attention_required": "Your attention is required",
+  "_enable": "Enable",
+  "_otp_code": "{0} is your validation code to sign in {1}. Do not share it with anyone. Valid until {2}.",
+  "_your_otp": "Your validation code",
+  "_my_share_box": "My internal sharebox"
 }

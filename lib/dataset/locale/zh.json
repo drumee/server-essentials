@@ -392,8 +392,6 @@
   "_insufficient_privilege": "特权不足",
   "_x_add_you_to_team": "{0}已将您添加到团队{1}。",
   "_download_link_ready": "您的下载链接已准备就绪",
-  "_otp_code": "这是您的一次性身份验证代码：{0}，有效期至{1}。",
-  "_your_otp": "您的一次性代码",
   "_account_deletion_email": "您刚刚删除了Drumee桌面。 出于法律和安全原因，您的数据将保留30天。 当然，没有人可以再访问它。 在此期间结束时，它们将被永久删除。\n\n同时，如果您改变主意，只需单击下面的链接。",
   "_account_deleted": "您的帐户已被删除",
   "_account_deletion_leave_comments": "马上告诉我们为什么离开德鲁米",
@@ -523,5 +521,11 @@
   "_installation_ack": "Cloud Drumee 的安装已成功完成。 单击下面的链接以验证您的管理员帐户",
   "_licence_send_installation_failed_msg": "Your installation has failed due to the below reason <br>Please contact our admin for more details  <br> <br> reason:",
   "_licence_send_installation_failed_sub": "Installation Failed",
-  "_read_install_manual": "阅读安装手册"
+  "_read_install_manual": "阅读安装手册",
+  "_installation_message": "关于 Drumee 服务器的当前安装，您已生成一个令牌激活链接来管理您域的 DNS 记录。 请点击下面的链接进行验证。",
+  "_your_attention_required": "需要您的关注",
+  "_enable": "使能够",
+  "_otp_code": "{0} 是您用于登录 {1} 的验证码。不要与任何人分享。有效期至{2}。",
+  "_your_otp": "您的验证码",
+  "_my_share_box": "我的内部共享箱"
 }

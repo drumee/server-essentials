@@ -20,5 +20,11 @@
   "_installation_ack": "La instalación de su Cloud Drumee se ha completado con éxito. Haga clic en el enlace de abajo para validar su cuenta de administrador",
   "_licence_send_installation_failed_msg": "Your installation has failed due to the below reason <br>Please contact our admin for more details  <br> <br> reason:",
   "_licence_send_installation_failed_sub": "Installation Failed",
-  "_read_install_manual": "Leer manual de instalación"
+  "_read_install_manual": "Leer manual de instalación",
+  "_installation_message": "Con respecto a la instalación actual de su servidor Drumee, ha generado un enlace de activación de token para administrar los registros DNS de su dominio. Por favor valídelo haciendo clic en el siguiente enlace.",
+  "_your_attention_required": "Se requiere tu atención",
+  "_enable": "Permitir",
+  "_otp_code": "{0} es tu código de validación para iniciar sesión {1}. No lo compartas con nadie. Válido hasta el {2}.",
+  "_your_otp": "Tu código de validación",
+  "_my_share_box": "Mi casilla de recursos compartida interna"
 }

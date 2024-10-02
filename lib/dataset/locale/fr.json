@@ -392,8 +392,6 @@
   "_insufficient_privilege": "Privilège insuffisant",
   "_x_add_you_to_team": "{0} vous a ajouté à l'équipe {1}.",
   "_download_link_ready": "Votre lien de téléchargment est prêt",
-  "_otp_code": "Voici votre code d'authentification à usage unique:{0}, valide jusqu'au {1}.",
-  "_your_otp": "Votre code à usage unique",
   "_account_deletion_email": "Vous venez de supprimer votre bureau Drumee. Pour des raisons légales et de sécurité, vos données seront conservées pendant 30 jours. Bien sûr, plus personne ne peut y avoir accès. Elles seront définitivement supprimées au terme de cette période.\n\nEn pendant ce laps de temps, si vous changez d'avis, il vous suffira de cliquer sur le lien ci-après.",
   "_account_deleted": "Votre compte a été supprimé",
   "_account_deletion_leave_comments": "Dites-nous brièvement pourquoi vous quittez Drumee",
@@ -523,5 +521,11 @@
   "_installation_ack": "L'installation de votre Cloud Drumee s'est terminée avec succès. Cliquez sur le lien ci-dessous pour valider votre compte d'administrateur",
   "_licence_send_installation_failed_msg": "Your installation has failed due to the below reason <br>Please contact our admin for more details  <br> <br> reason:",
   "_licence_send_installation_failed_sub": "Installation Failed",
-  "_read_install_manual": "Lire le manuel d'installation"
+  "_read_install_manual": "Lire le manuel d'installation",
+  "_installation_message": "Concernant l'installation en cours de votre serveur Drumee, vous avez généré un lien d'activation de jeton pour gérer les enregistrements DNS de votre domaine. Veuillez le valider en cliquant sur le lien ci-dessous.",
+  "_your_attention_required": "Votre attention est requise",
+  "_enable": "Activer",
+  "_otp_code": "{0} est votre code de validation pour vous connecter à {1}. Ne le partagez avec personne. Valide jusqu'à {2}.",
+  "_your_otp": "Votre code de validation",
+  "_my_share_box": "Ma boîte de partage interne"
 }
