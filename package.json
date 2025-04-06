@@ -25,6 +25,7 @@
   "license": "AGPL V3",
   "dependencies": {
     "backbone": "^1.4.0",
+    "file-type": "^20.4.1",
     "https": "^1.0.0",
     "istextorbinary": "^9.5.0",
     "jsonfile": "^5.0.0",
