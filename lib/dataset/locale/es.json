@@ -1,6 +1,6 @@
 {
   "_signup_welcome_b2b": "<p>Gracias por elegir probar Drumee.</p>\n<p>Para comenzar a probar la interfaz de Drumee 'Independent Cloud' y completar su registro.</p>\n<p>Haga clic en el siguiente enlace:</p>",
-  "_mail_signup_drumee": "<p>Gracias por elegir probar Drumee.</p>\n<p>Para comenzar a probar la interfaz de Drumee 'Independent Cloud' y completar su registro.</p>\n<p>Haga clic en el siguiente enlace:</p>",
+  "_mail_signup_drumee": "<p>Una breve nota para confirmar que tu cuenta se ha creado correctamente.</p>\n<p>Muchas gracias por tu interés en Drumee. Nos entusiasma descubrirlo.</p>\n<p></p>\n<hr>\n<p>¡Nos alegra tenerte!</p>",
   "_mail_non_drumee_network": "<p>Quería extenderle una invitación personal para que se una a mi red \"Nube independiente\" de Drumee, que es 100 % confidencial y privada.</p>\n<p>¡Espero tenerte a bordo!</p>",
   "_click_the_link_below_to_join_": "Por favor, haga clic en el enlace de abajo para unirse",
   "_my_independent_cloud_": "Mi nube independiente",
@@ -27,5 +27,12 @@
   "_otp_code": "{0} es tu código de validación para iniciar sesión {1}. No lo compartas con nadie. Válido hasta el {2}.",
   "_your_otp": "Tu código de validación",
   "_my_share_box": "Mi casilla de recursos compartida interna",
-  "_my_dmz_box": "Mi cuadro de recursos compartidos externo"
+  "_my_dmz_box": "Mi cuadro de recursos compartidos externo",
+  "_email": "Dirección de correo electrónico",
+  "_welcome_on_drumee": "Bienvenido a Drumee",
+  "_your_account_is_all_set": "¡Tu cuenta de Drumee está lista! Gracias por unirte.",
+  "_drumee_team": "El equipo de Drumee",
+  "_copyright": "© {0} Drumee. Recibes este correo electrónico porque te suscribiste a nuestro servicio.",
+  "_open_my_desktop": "Abre mi escritorio",
+  "_discover_drumee_desk": "Descubre tu escritorio Drumee aquí"
 }

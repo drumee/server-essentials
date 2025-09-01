@@ -404,7 +404,6 @@
   "_humanresource": "Человеческий ресурс",
   "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "Присоединиться к организации",
-  "_open_my_desktop": "открыть мой офис",
   "_meeting_organized_by_x": "Встреча, организованная <span class = \"organizer\">{0}</span>",
   "_sent_you_sharebox": "{0} отправил вам ссылку для совместного доступа",
   "_open_link": "Открыть ссылку",
@@ -501,7 +500,7 @@
   "_admin_mail_change_password": "You have changed your email for your Drumee Desk access. To validate this new email click the link below. You will be redirected to create a new password.\n",
   "_admin_email_change_link": "Validate new mail\n",
   "_signup_welcome_b2b": "<p>Спасибо, что решили протестировать Drumee.</p>\n<p>Чтобы начать тестирование интерфейса Drumee «Независимое облако» и завершить регистрацию.</p>\n<p>Пожалуйста, нажмите на ссылку ниже:</p>",
-  "_mail_signup_drumee": "<p>Спасибо, что решили протестировать Drumee.</p>\n<p>Чтобы начать тестирование интерфейса Drumee «Независимое облако» и завершить регистрацию.</p>\n<p>Пожалуйста, нажмите на ссылку ниже:</p>",
+  "_mail_signup_drumee": "<p>Короткое сообщение для подтверждения того, что ваша учётная запись успешно создана.</p>\n<p>Большое спасибо за ваш интерес к Drumee — мы будем рады поделиться с вами своими открытиями.</p>\n<p></p>\n<hr>\n<p>Мы рады приветствовать вас!</p>",
   "_mail_non_drumee_network": "<p>Я хотел бы направить вам личное приглашение присоединиться к моей сети \"Независимого облака\" Drumee, которая является 100% конфиденциальной и конфиденциальной.</p>\n<p>Ждем вас на борту!</p>",
   "_click_the_link_below_to_join_": "Пожалуйста, нажмите на ссылку ниже, чтобы присоединиться",
   "_my_independent_cloud_": "Мое независимое облако",
@@ -528,5 +527,10 @@
   "_otp_code": "{0} — это ваш код подтверждения для входа в {1}. Не делитесь этим ни с кем. Действительно до {2}.",
   "_your_otp": "Ваш код подтверждения",
   "_my_share_box": "Мой внутренний ящик для обмена",
-  "_my_dmz_box": "Мой внешний sharebox"
+  "_my_dmz_box": "Мой внешний sharebox",
+  "_welcome_on_drumee": "Добро пожаловать на Драми",
+  "_your_account_is_all_set": "Ваш аккаунт Drumee готов! Спасибо, что присоединились к нам.",
+  "_copyright": "© {0} Drumee. Вы получили это письмо, потому что подписались на нашу услугу.",
+  "_open_my_desktop": "открыть мой офис",
+  "_discover_drumee_desk": "Найдите свой стол Drumee здесь"
 }
