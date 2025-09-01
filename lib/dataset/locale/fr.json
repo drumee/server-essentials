@@ -532,5 +532,6 @@
   "_your_account_is_all_set": "Votre compte Drumee est prêt ! Merci de nous avoir rejoints.",
   "_copyright": "© {0} Drumee. Vous recevez cet e-mail car vous vous êtes inscrit à notre service.",
   "_open_my_desktop": "Ouvrir mon bureau",
-  "_discover_drumee_desk": "Découvrez votre bureau Drumee ici"
+  "_discover_drumee_desk": "Découvrez votre bureau Drumee ici",
+  "_hello_x": "Bonjour {0},"
 }

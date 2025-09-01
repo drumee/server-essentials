@@ -532,5 +532,6 @@
   "_your_account_is_all_set": "Ваш аккаунт Drumee готов! Спасибо, что присоединились к нам.",
   "_copyright": "© {0} Drumee. Вы получили это письмо, потому что подписались на нашу услугу.",
   "_open_my_desktop": "открыть мой офис",
-  "_discover_drumee_desk": "Найдите свой стол Drumee здесь"
+  "_discover_drumee_desk": "Найдите свой стол Drumee здесь",
+  "_hello_x": "Привет {0},"
 }

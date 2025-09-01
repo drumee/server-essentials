@@ -532,5 +532,6 @@
   "_your_account_is_all_set": "Your account Drumee is all set! Thanks for joining us.",
   "_copyright": "© {0} Drumee. You're receiving this email because you signed up for our service.",
   "_open_my_desktop": "Open my desktop",
-  "_discover_drumee_desk": "Discover your Drumee desk here"
+  "_discover_drumee_desk": "Discover your Drumee desk here",
+  "_hello_x": "Hello {0},"
 }
