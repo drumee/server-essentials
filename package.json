@@ -1,6 +1,6 @@
 {
   "name": "@drumee/server-essentials",
-  "version": "1.1.39",
+  "version": "1.2.7",
   "description": "Drumee server essential components",
   "main": "lib/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "jsonfile": "^5.0.0",
     "lodash": "^4.17.21",
     "mariadb": "^3.3.1",
-    "nodemailer": "^6.9.2",
+    "nodemailer": "^7.0.10",
     "redis": "^4.6.6",
     "sanitize-html": "^2.10.0",
     "shelljs": "^0.8.5",
