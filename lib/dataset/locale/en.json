@@ -404,7 +404,6 @@
   "_humanresource": "Human resource",
   "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "Join organization",
-  "_open_my_desktop": "Open my desktop",
   "_meeting_organized_by_x": "Meeting organized by <span class = \"organizer\"> {0} </span>",
   "_sent_you_sharebox": "Access to Drumee sharebox",
   "_open_link": "Open link",
@@ -501,7 +500,7 @@
   "_admin_mail_change_password": "You have changed your email for your Drumee Desk access. To validate this new email click the link below. You will be redirected to create a new password.\n",
   "_admin_email_change_link": "Validate new mail\n",
   "_signup_welcome_b2b": "<p>Thank you for choosing to test Drumee.</p>\n<p>To start testing Drumee 'Independent Cloud' interface and complete your registration.</p>\n<p>Please click the link below:</p>",
-  "_mail_signup_drumee": "<p>Thank you for choosing to test Drumee.</p>\n<p>To start testing Drumee 'Independent Cloud' interface and complete your registration.</p>\n<p>Please click the link below:</p>",
+  "_mail_signup_drumee": "<p>A quick note to confirm your account has been successfully created.</p>\n<p>Thank you so much for your interest in Drumee — we're excited to let discover.</p>\n<p></p>\n<hr>\n<p>We're glad to have you!</p>",
   "_mail_non_drumee_network": "<p>I wanted to extend a personal invitation to you to join my Drumee \"Independent Cloud\" network, which is 100% confidential and privacy.</p>\n<p>Looking forward to having you on board!</p>",
   "_click_the_link_below_to_join_": "Please click on the link below to join",
   "_my_independent_cloud_": "My Independent Cloud",
@@ -528,5 +527,11 @@
   "_otp_code": "{0} is your validation code to sign in {1}. Do not share it with anyone. Valid until {2}.",
   "_your_otp": "Your validation code",
   "_my_share_box": "My internal sharebox",
-  "_my_dmz_box": "My external sharebox"
+  "_my_dmz_box": "My external sharebox",
+  "_welcome_on_drumee": "Welcome on Drumee",
+  "_your_account_is_all_set": "Your account Drumee is all set! Thanks for joining us.",
+  "_copyright": "© {0} Drumee. You're receiving this email because you signed up for our service.",
+  "_open_my_desktop": "Open my desktop",
+  "_discover_drumee_desk": "Discover your Drumee desk here",
+  "_hello_x": "Hello {0},"
 }
