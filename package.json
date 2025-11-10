@@ -1,6 +1,6 @@
 {
   "name": "@drumee/server-essentials",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "Drumee server essential components",
   "main": "lib/index.js",
   "scripts": {
