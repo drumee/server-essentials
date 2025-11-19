@@ -533,5 +533,6 @@
   "_copyright": "© {0} Drumee. You're receiving this email because you signed up for our service.",
   "_open_my_desktop": "Open my desktop",
   "_discover_drumee_desk": "Discover your Drumee desk here",
-  "_hello_x": "Hello {0},"
+  "_hello_x": "Hello {0},",
+  "_why_this_otp": "You received this message because you or someone else requested a one-time code. If you did not request this message, you can simply ignore it."
 }

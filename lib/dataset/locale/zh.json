@@ -533,5 +533,6 @@
   "_copyright": "© {0} Drumee。您收到这封电子邮件是因为您注册了我们的服务。",
   "_open_my_desktop": "打开我的办公室",
   "_discover_drumee_desk": "在这里发现您的 Drumee 办公桌",
-  "_hello_x": "您好 {0}，"
+  "_hello_x": "您好 {0}，",
+  "_why_this_otp": "您收到此消息是因为您或其他用户请求了一次性验证码。如果您没有请求此消息，则可以忽略它。"
 }

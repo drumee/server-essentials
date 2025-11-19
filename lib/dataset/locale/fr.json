@@ -533,5 +533,6 @@
   "_copyright": "© {0} Drumee. Vous recevez cet e-mail car vous vous êtes inscrit à notre service.",
   "_open_my_desktop": "Ouvrir mon bureau",
   "_discover_drumee_desk": "Découvrez votre bureau Drumee ici",
-  "_hello_x": "Bonjour {0},"
+  "_hello_x": "Bonjour {0},",
+  "_why_this_otp": "Vous avez reçu ce message car vous ou une autre personne avez demandé un code à usage unique. Si vous n'avez pas demandé ce message, vous pouvez simplement l'ignorer."
 }

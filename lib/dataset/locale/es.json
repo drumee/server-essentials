@@ -35,5 +35,6 @@
   "_copyright": "© {0} Drumee. Recibes este correo electrónico porque te suscribiste a nuestro servicio.",
   "_open_my_desktop": "Abre mi escritorio",
   "_discover_drumee_desk": "Descubre tu escritorio Drumee aquí",
-  "_hello_x": "Hola {0},"
+  "_hello_x": "Hola {0},",
+  "_why_this_otp": "Has recibido este mensaje porque tú u otra persona solicitaron un código de un solo uso. Si no solicitaste este mensaje, puedes ignorarlo."
 }
