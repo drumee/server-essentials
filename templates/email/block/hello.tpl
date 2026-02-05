@@ -7,7 +7,7 @@
   ">
   <span style="
     color: #787B7F;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     font-size: 18px;
     line-height:24px;
     text-align: left;
@@ -20,7 +20,7 @@
     color:#FA8540;
     line-height: 24px;
     font-size: 18px;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     text-align: left;
   ">
     <% if(!_.isEmpty(recipient)) { %>

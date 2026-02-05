@@ -402,7 +402,7 @@
   "_finance": "La finance",
   "_commercial": "Commercial",
   "_humanresource": "Ressource humaine",
-  "_admin_network_message": "Je vous invite à rejoindre mon organisation. Cliquez sur le lien ci-après où vous serez invité à entrer votre nom et un mot de passe et pourrez accéder à l’organisation.",
+  "_admin_network_message": "Je vous invite à rejoindre mon organisation ({0}). Cliquez sur le lien ci-dessous ; il vous sera demandé de saisir votre nom et un mot de passe pour accéder à l’organisation.",
   "_admin_network_subject": "Rejoindre l'organisation",
   "_meeting_organized_by_x": "Réunion organisée par <span class=\"organizer\">{0}</span>",
   "_sent_you_sharebox": "Partage de documents",
@@ -534,5 +534,6 @@
   "_open_my_desktop": "Ouvrir mon bureau",
   "_discover_drumee_desk": "Découvrez votre bureau Drumee ici",
   "_hello_x": "Bonjour {0},",
-  "_why_this_otp": "Vous avez reçu ce message car vous ou une autre personne avez demandé un code à usage unique. Si vous n'avez pas demandé ce message, vous pouvez simplement l'ignorer."
+  "_why_this_otp": "Vous avez reçu ce message car vous ou une autre personne avez demandé un code à usage unique. Si vous n'avez pas demandé ce message, vous pouvez simplement l'ignorer.",
+  "_join_my_organization": "Rejoignez mon organisation {0}"
 }

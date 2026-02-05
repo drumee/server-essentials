@@ -402,7 +402,7 @@
   "_finance": "金融",
   "_commercial": "商业广告",
   "_humanresource": "人力资源",
-  "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
+  "_admin_network_message": "我邀请您加入我的组织（{0}）。点击下方链接，您将被要求输入您的姓名和密码，即可访问该组织。",
   "_admin_network_subject": "加入组织",
   "_meeting_organized_by_x": "<span class =\"organizer\">{0}</ span>组织的会议",
   "_sent_you_sharebox": "{0}向您发送了一个共享链接",
@@ -534,5 +534,6 @@
   "_open_my_desktop": "打开我的办公室",
   "_discover_drumee_desk": "在这里发现您的 Drumee 办公桌",
   "_hello_x": "您好 {0}，",
-  "_why_this_otp": "您收到此消息是因为您或其他用户请求了一次性验证码。如果您没有请求此消息，则可以忽略它。"
+  "_why_this_otp": "您收到此消息是因为您或其他用户请求了一次性验证码。如果您没有请求此消息，则可以忽略它。",
+  "_join_my_organization": "加入我的组织 {0}"
 }

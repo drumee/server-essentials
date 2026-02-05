@@ -402,7 +402,7 @@
   "_finance": "Finance",
   "_commercial": "Commercial",
   "_humanresource": "Human resource",
-  "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
+  "_admin_network_message": "I invite you to join my organisation ({0}). Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "Join organization",
   "_meeting_organized_by_x": "Meeting organized by <span class = \"organizer\"> {0} </span>",
   "_sent_you_sharebox": "Access to Drumee sharebox",
@@ -534,5 +534,6 @@
   "_open_my_desktop": "Open my desktop",
   "_discover_drumee_desk": "Discover your Drumee desk here",
   "_hello_x": "Hello {0},",
-  "_why_this_otp": "You received this message because you or someone else requested a one-time code. If you did not request this message, you can simply ignore it."
+  "_why_this_otp": "You received this message because you or someone else requested a one-time code. If you did not request this message, you can simply ignore it.",
+  "_join_my_organization": "Join my organization {0}"
 }

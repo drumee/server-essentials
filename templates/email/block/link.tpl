@@ -1,6 +1,6 @@
 <div style="
   width:240px;
-  background-color: #879BFF;
+  background-color: #b255f9;
   border-radius:6px;
   line-height:40px;
   padding: 5px 10px; 
@@ -15,7 +15,7 @@
     font-size: 15px;
     color:#ffffff;
     text-align: center;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     line-height:30px;
     text-decoration:none;
     " 

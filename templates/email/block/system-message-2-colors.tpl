@@ -6,7 +6,7 @@
     text-align: left;
     ">
   <span style="
-    color: #4a90e2;
+    color: #b255f9;
     margin-bottom: 0px;
     font-size: 15px;
     margin-top: 0px;

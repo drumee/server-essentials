@@ -1,8 +1,8 @@
 <!-- padding-bottom: 40px; -->
 <p style="
 width:331px; 
-color: #787B7F;
-font-family:Verdana, sans-serif;
+color: #9d31ef;
+font-family:Armin Grotesk, sans-serif;
 font-size: 15px; 
 line-height: 24px; 
 text-align:left; 
@@ -13,10 +13,3 @@ margin-left:30px;
 ">
 <%= _drumee_team %>
 </p>
-
-
-
-
-
- 
-    

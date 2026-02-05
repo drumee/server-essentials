@@ -13,7 +13,7 @@
     margin-top: 0px;
     text-align: left;
     line-height:1.2;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     ">
     <%= text %>
   </span>

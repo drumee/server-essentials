@@ -4,7 +4,7 @@
   <td style="
     color:#4a90e2;
     font-size: 15px;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     padding-bottom : 10px;
     vertical-align: text-bottom;
     ">
@@ -14,7 +14,7 @@
     color:#787B7F;
     font-size: 15px;
     padding-left:0.3em;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk, sans-serif;
     padding-bottom : 10px;
     vertical-align: text-top;
     ">

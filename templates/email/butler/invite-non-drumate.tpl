@@ -13,8 +13,6 @@
   }) 
 %>
 
-<%= renderer.include('block/link.tpl', {label: _my_independent_cloud_}) %>
-
 <%= renderer.include('block/system-message.tpl', {
     text:sender
   }) 

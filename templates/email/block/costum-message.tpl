@@ -16,7 +16,7 @@
     margin-bottom: 0px;
     margin-top: 0px;
     text-align: left;
-    font-family: Verdana, sans-serif;
+    font-family: Armin Grotesk;
     ">
     <%= text %>
   </span>

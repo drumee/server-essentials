@@ -1,6 +1,6 @@
 <div style="
     width:304px; 
-    background-color: #879BFF;
+    background-color: #b255f9;
     border-radius:6px;
     padding: 10px;
     margin-top: 0px;
