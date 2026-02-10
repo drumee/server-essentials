@@ -536,5 +536,6 @@
   "_hello_x": "Bonjour {0},",
   "_why_this_otp": "Vous avez reçu ce message car vous ou une autre personne avez demandé un code à usage unique. Si vous n'avez pas demandé ce message, vous pouvez simplement l'ignorer.",
   "_join_my_organization": "Rejoignez mon organisation {0}",
-  "_admin_removal_subject": "Vous avez été retiré de l'organisation {0}. Cependant, le contenu qui vous appartenait reste accessible avec les mêmes identifiants de compte."
+  "_admin_removal_message": "Vous avez été retiré de l'organisation {0}. Cependant, le contenu qui vous appartenait reste accessible avec les mêmes identifiants de compte.",
+  "_admin_removal_subject": "Vous avez été retiré de l'organisation {0}."
 }
