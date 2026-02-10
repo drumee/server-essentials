@@ -535,5 +535,6 @@
   "_discover_drumee_desk": "在这里发现您的 Drumee 办公桌",
   "_hello_x": "您好 {0}，",
   "_why_this_otp": "您收到此消息是因为您或其他用户请求了一次性验证码。如果您没有请求此消息，则可以忽略它。",
-  "_join_my_organization": "加入我的组织 {0}"
+  "_join_my_organization": "加入我的组织 {0}",
+  "_admin_removal_subject": "您已被从组织 {0} 中移除。但是，您之前拥有的内容仍然可以使用相同的帐户凭据访问。"
 }

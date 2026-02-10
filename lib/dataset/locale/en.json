@@ -535,5 +535,6 @@
   "_discover_drumee_desk": "Discover your Drumee desk here",
   "_hello_x": "Hello {0},",
   "_why_this_otp": "You received this message because you or someone else requested a one-time code. If you did not request this message, you can simply ignore it.",
-  "_join_my_organization": "Join my organization {0}"
+  "_join_my_organization": "Join my organization {0}",
+  "_admin_removal_subject": "You have been emoved from the organization {0}. However, content that belonged to you are still reachable with the same account credentials."
 }
