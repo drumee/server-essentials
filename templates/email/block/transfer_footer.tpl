@@ -36,7 +36,7 @@
                   line-height:30px;
                   text-decoration:none;" 
                   href="https://drumee.com" target="_blank">
-                  <%= _discover_drumee %>
+                  <%= lex._discover_drumee %>
                </a>
             </div>
          </div>
