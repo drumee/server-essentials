@@ -14,7 +14,7 @@
     padding-right: 0.3em;
     margin-bottom:10px;
   ">
-    <%= _hello %>
+    <%= lex._hello %>
   </span>  
   <span style="    
     color:#FA8540;
