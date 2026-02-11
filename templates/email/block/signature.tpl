@@ -11,5 +11,5 @@ margin-top:0px;
 margin-bottom:15px; 
 margin-left:30px;
 ">
-<%= _drumee_team %>
+<%= lex._drumee_team %>
 </p>

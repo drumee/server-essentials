@@ -1,6 +1,6 @@
 <%= renderer.include('block/hello.tpl') %> 
 <%= renderer.include('block/system-message.tpl', {
-    text:_email_account_deletion_confirm
+    text:lex._email_account_deletion_confirm
   }) 
 %>
 <%= renderer.include('block/system-message-red.tpl', {

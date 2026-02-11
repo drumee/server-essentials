@@ -9,5 +9,5 @@
     </div>
   </div>
 <% } %>
-<%= renderer.include('block/link.tpl', {label: _open_the_mailbox}) %>
+<%= renderer.include('block/link.tpl', {label: lex._open_the_mailbox}) %>
 <%= renderer.include('block/signature.tpl') %>

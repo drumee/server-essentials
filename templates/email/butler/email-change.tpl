@@ -3,5 +3,5 @@
     text:_admin_mail_change_password
   }) 
 %>
-<%= renderer.include('block/link.tpl', {label:_admin_email_change_link}) %>
+<%= renderer.include('block/link.tpl', {label:lex._admin_email_change_link}) %>
 <%= renderer.include('block/signature.tpl') %>

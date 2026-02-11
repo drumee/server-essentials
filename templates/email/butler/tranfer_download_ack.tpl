@@ -3,5 +3,5 @@
     text:message 
   }) 
 %>
-<%= renderer.include('block/link.tpl', {label: _manage_transfer}) %>
+<%= renderer.include('block/link.tpl', {label: lex._manage_transfer}) %>
 <%= renderer.include('block/signature.tpl') %> 

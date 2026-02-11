@@ -23,6 +23,6 @@
     display: inline-block;
     cursor:pointer;
     width: 32%;" >
-    <a style="color: white;" href="https://drumee.org/src/pages/new/docs.html#privacy-policy" target="_blank"><%= _privacy %></a>
+    <a style="color: white;" href="https://drumee.org/src/pages/new/docs.html#privacy-policy" target="_blank"><%= lex._privacy %></a>
   </div>
 </div>

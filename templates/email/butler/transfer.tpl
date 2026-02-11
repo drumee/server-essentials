@@ -27,11 +27,11 @@
       text-align: left;
       ">
     <%= renderer.include('block/field.tpl',
-      {name:_drumee_transfer_download_password,  value:password }) %>
+      {name: lex._drumee_transfer_download_password,  value:password }) %>
 
     </table>
   </div>
 <% } %>
 
-<%= renderer.include('block/link.tpl', {label: _drumee_transfer_download_url}) %>
+<%= renderer.include('block/link.tpl', {label: lex._drumee_transfer_download_url}) %>
 <%= renderer.include('block/signature.tpl') %>

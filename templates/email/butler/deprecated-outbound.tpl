@@ -18,5 +18,5 @@
     </div>
   </div>
 <% } %>
-<%= renderer.include('block/link.tpl', {label: _click_to_access}) %>
+<%= renderer.include('block/link.tpl', {label: lex._click_to_access}) %>
 <%= renderer.include('block/signature.tpl') %>

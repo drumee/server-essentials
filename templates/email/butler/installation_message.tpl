@@ -3,6 +3,6 @@
     text:message
   }) 
 %> 
-<%= renderer.include('block/link.tpl', {label: _enable, link}) %>
+<%= renderer.include('block/link.tpl', {label: lex._enable, link}) %>
 
 <%= renderer.include('block/signature.tpl') %>

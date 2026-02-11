@@ -1,6 +1,6 @@
 <%= renderer.include('block/hello.tpl') %>
 <%= renderer.include('block/system-message.tpl', {
-  text:_mail_invite_videoconference.format(sender)
+  text: lex._mail_invite_videoconference.format(sender)
   })
 %>
 
@@ -21,13 +21,13 @@
     margin-top: 0px;
     text-align: left;
     ">
-    <%= renderer.include('block/field.tpl', {name:_title, value:title}) %>
-    <%= renderer.include('block/field.tpl', {name:_date, value:date}) %>
-    <%= renderer.include('block/field.tpl', {name:_subject, value:message}) %>
+    <%= renderer.include('block/field.tpl', {name: lex._title, value:title}) %>
+    <%= renderer.include('block/field.tpl', {name: lex._date, value:date}) %>
+    <%= renderer.include('block/field.tpl', {name: lex._subject, value:message}) %>
   </table>
 </div>
 
-<%= renderer.include('block/link.tpl', {label: _mail_access_videoconference}) %>
+<%= renderer.include('block/link.tpl', {label: lex._mail_access_videoconference}) %>
 <%= renderer.include('block/system-message.tpl', {
     text:sender
   }) 
