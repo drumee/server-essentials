@@ -404,7 +404,6 @@
   "_humanresource": "Ressource humaine",
   "_admin_network_message": "Je vous invite à rejoindre mon organisation. Cliquez sur le lien ci-après où vous serez invité à entrer votre nom et un mot de passe et pourrez accéder à l’organisation.",
   "_admin_network_subject": "Rejoindre l'organisation",
-  "_open_my_desktop": "Ouvrir mon bureau",
   "_meeting_organized_by_x": "Réunion organisée par <span class=\"organizer\">{0}</span>",
   "_sent_you_sharebox": "Partage de documents",
   "_open_link": "Ouvrir le lien",
@@ -501,7 +500,7 @@
   "_admin_mail_change_password": "Vous avez changé d’Email pour accéder à votre bureau Drumee. Pour valider ce nouvel Email, cliquez sur le lien ci-après.  Il vous sera demandé ensuite de créer un nouveau mot de passe.",
   "_admin_email_change_link": "Valider le nouvel email",
   "_signup_welcome_b2b": "<p>Merci d'avoir choisi de tester Drumee.</p>\n<p>Pour commencer à tester l'interface du \"Cloud Indépendant\" de Drumee et terminer votre inscription,\ncliquer sur le lien ci-dessous:</p>",
-  "_mail_signup_drumee": "<p>Merci d'avoir choisi de tester Drumee.</p>\n<p>Pour commencer à tester l'interface du \"Cloud Indépendant\" de Drumee et terminer votre inscription,\ncliquer sur le lien ci-dessous:</p>",
+  "_mail_signup_drumee": "<p>Un petit mot pour confirmer que votre compte a bien été créé.</p>\n<p>Merci beaucoup de votre intérêt pour Drumee ; nous sommes ravis de vous le faire découvrir.</p>\n<p></p>\n<hr>\n<p>Nous sommes ravis de vous compter parmi nous !</p>",
   "_mail_non_drumee_network": "<p>Je voulais vous inviter personnellement à rejoindre mon réseau Drumee \"Independent Cloud\", qui est 100 % confidentiel et privé.</p>\n<p>Au plaisir de vous avoir à bord !</p>",
   "_click_the_link_below_to_join_": "Veuillez cliquer sur le lien ci-dessous pour rejoindre",
   "_my_independent_cloud_": "Mon cloud indépendant",
@@ -528,5 +527,11 @@
   "_otp_code": "{0} est votre code de validation pour vous connecter à {1}. Ne le partagez avec personne. Valide jusqu'à {2}.",
   "_your_otp": "Votre code de validation",
   "_my_share_box": "Ma boîte de partage interne",
-  "_my_dmz_box": "Ma boîte de partage externe"
+  "_my_dmz_box": "Ma boîte de partage externe",
+  "_welcome_on_drumee": "Bienvenue sur Drumee",
+  "_your_account_is_all_set": "Votre compte Drumee est prêt ! Merci de nous avoir rejoints.",
+  "_copyright": "© {0} Drumee. Vous recevez cet e-mail car vous vous êtes inscrit à notre service.",
+  "_open_my_desktop": "Ouvrir mon bureau",
+  "_discover_drumee_desk": "Découvrez votre bureau Drumee ici",
+  "_hello_x": "Bonjour {0},"
 }

@@ -404,7 +404,6 @@
   "_humanresource": "人力资源",
   "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "加入组织",
-  "_open_my_desktop": "打开我的办公室",
   "_meeting_organized_by_x": "<span class =\"organizer\">{0}</ span>组织的会议",
   "_sent_you_sharebox": "{0}向您发送了一个共享链接",
   "_open_link": "打开链接",
@@ -501,7 +500,7 @@
   "_admin_mail_change_password": "You have changed your email for your Drumee Desk access. To validate this new email click the link below. You will be redirected to create a new password.\n",
   "_admin_email_change_link": "Validate new mail\n",
   "_signup_welcome_b2b": "<p>感谢您选择测试 Drumee。</p>\n<p>开始测试 Drumee“独立云”界面并完成注册。</p>\n<p>请点击以下链接：</p>",
-  "_mail_signup_drumee": "<p>感谢您选择测试 Drumee。</p>\n<p>开始测试 Drumee“独立云”界面并完成注册。</p>\n<p>请点击以下链接：</p>",
+  "_mail_signup_drumee": "<p>快速确认您的帐户已成功创建。</p>\n<p>非常感谢您对 Drumee 的关注——我们很高兴让您发现。</p>\n<p></p>\n<hr>\n<p>我们很高兴有您的加入！</p>",
   "_mail_non_drumee_network": "<p>我想向您发出个人邀请，加入我的 Drumee“独立云”网络，这是 100% 保密和隐私的。</p>\n<p>期待您的加入！</p>",
   "_click_the_link_below_to_join_": "请点击以下链接加入",
   "_my_independent_cloud_": "我的独立云",
@@ -528,5 +527,11 @@
   "_otp_code": "{0} 是您用于登录 {1} 的验证码。不要与任何人分享。有效期至{2}。",
   "_your_otp": "您的验证码",
   "_my_share_box": "我的内部共享箱",
-  "_my_dmz_box": "我的外部共享箱"
+  "_my_dmz_box": "我的外部共享箱",
+  "_welcome_on_drumee": "欢迎来到 Drumee",
+  "_your_account_is_all_set": "您的 Drumee 帐户已设置完毕！感谢您的加入。",
+  "_copyright": "© {0} Drumee。您收到这封电子邮件是因为您注册了我们的服务。",
+  "_open_my_desktop": "打开我的办公室",
+  "_discover_drumee_desk": "在这里发现您的 Drumee 办公桌",
+  "_hello_x": "您好 {0}，"
 }

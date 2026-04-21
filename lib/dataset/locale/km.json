@@ -404,7 +404,6 @@
   "_humanresource": "ធនធានមនុស្ស",
   "_admin_network_message": "I invite you to join my organisation. Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "ចូលរួមជាមួយអង្គការ",
-  "_open_my_desktop": "បើកកុំព្យូទ័រលើតុរបស់ខ្ញុំ",
   "_meeting_organized_by_x": "ការប្រជុំរៀបចំដោយ <span class=\"organizer\"> {0}</span>",
   "_sent_you_sharebox": "{0} បានផ្ញើតំណចែករំលែកដល់អ្នក",
   "_open_link": "បើកតំណ",
@@ -501,7 +500,7 @@
   "_admin_mail_change_password": "You have changed your email for your Drumee Desk access. To validate this new email click the link below. You will be redirected to create a new password.\n",
   "_admin_email_change_link": "Validate new mail\n",
   "_signup_welcome_b2b": "<p>សូមអរគុណសម្រាប់ការជ្រើសរើសសាកល្បង Drumee។</p>\n<p>ដើម្បីចាប់ផ្តើមសាកល្បង Drumee 'Independent Cloud' interface និងបញ្ចប់ការចុះឈ្មោះរបស់អ្នក។</p>\n<p>សូមចុចតំណខាងក្រោម៖</p>",
-  "_mail_signup_drumee": "<p>សូមអរគុណសម្រាប់ការជ្រើសរើសសាកល្បង Drumee។</p>\n<p>ដើម្បីចាប់ផ្តើមសាកល្បង Drumee 'Independent Cloud' interface និងបញ្ចប់ការចុះឈ្មោះរបស់អ្នក។</p>\n<p>សូមចុចតំណខាងក្រោម៖</p>",
+  "_mail_signup_drumee": "<p>កំណត់ចំណាំរហ័សដើម្បីបញ្ជាក់ថាគណនីរបស់អ្នកត្រូវបានបង្កើតដោយជោគជ័យ។</p>\n<p>សូម​អរគុណ​យ៉ាង​ខ្លាំង​ចំពោះ​ការ​ចាប់​អារម្មណ៍​របស់​អ្នក​ចំពោះ Drumee — យើង​រំភើប​ចិត្ត​ក្នុង​ការ​អនុញ្ញាត​ឱ្យ​រក​ឃើញ។</p>\n<p></p>\n<ម៉ោង>\n<p>យើងរីករាយដែលមានអ្នក!</p>",
   "_mail_non_drumee_network": "<p>ខ្ញុំចង់ពង្រីកការអញ្ជើញផ្ទាល់ខ្លួនដល់អ្នកឱ្យចូលរួមបណ្តាញ Drumee \"Independent Cloud\" របស់ខ្ញុំ ដែលជាការសម្ងាត់ និងឯកជនភាព 100%។</p>\n<p>ទន្ទឹងរង់ចាំអ្នកនៅលើយន្តហោះ!</p>",
   "_click_the_link_below_to_join_": "សូមចុចលើតំណភ្ជាប់ខាងក្រោមដើម្បីចូលរួម",
   "_my_independent_cloud_": "ពពកឯករាជ្យរបស់ខ្ញុំ",
@@ -528,5 +527,11 @@
   "_otp_code": "{0} គឺ​ជា​លេខ​កូដ​ផ្ទៀងផ្ទាត់​របស់​អ្នក​ដើម្បី​ចូល {1}។ កុំចែករំលែកវាជាមួយនរណាម្នាក់។ មានសុពលភាពរហូតដល់ថ្ងៃទី {2}។",
   "_your_otp": "លេខកូដផ្ទៀងផ្ទាត់របស់អ្នក។",
   "_my_share_box": "ប្រអប់ចែករំលែកខាងក្នុងរបស់ខ្ញុំ",
-  "_my_dmz_box": "ប្រអប់ចែករំលែកខាងក្រៅរបស់ខ្ញុំ"
+  "_my_dmz_box": "ប្រអប់ចែករំលែកខាងក្រៅរបស់ខ្ញុំ",
+  "_welcome_on_drumee": "សូមស្វាគមន៍មកកាន់ Drumee",
+  "_your_account_is_all_set": "Votre compte Drumee est prêt ! Merci de nous avoir rejoints.",
+  "_copyright": "© {0} Drumee។ អ្នកកំពុងទទួលបានអ៊ីមែលនេះ ដោយសារតែអ្នកបានចុះឈ្មោះសម្រាប់សេវាកម្មរបស់យើង។",
+  "_open_my_desktop": "បើកកុំព្យូទ័រលើតុរបស់ខ្ញុំ",
+  "_discover_drumee_desk": "ស្វែងយល់ពីតុ Drumee របស់អ្នកនៅទីនេះ",
+  "_hello_x": "សួស្តី {0}"
 }
