@@ -1,5 +1,5 @@
 #!/bin/bash
-
+shopt -s extglob dotglob
 # Function to display usage
 usage() {
     echo "Usage: $0 <input_file> [output_dir]"
