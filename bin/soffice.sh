@@ -1,5 +1,13 @@
 #!/bin/bash
+
 shopt -s extglob dotglob
+if [ -f /etc/drumee/drumee.sh ]; then
+  source /etc/drumee/drumee.sh
+  export HOME=$DRUMEE_SERVER_HOME
+else
+  export HOME=$2
+fi
+
 # Function to display usage
 usage() {
     echo "Usage: $0 <input_file> [output_dir]"
