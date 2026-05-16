@@ -404,6 +404,8 @@
   "_humanresource": "Human resource",
   "_admin_network_message": "I invite you to join my organisation ({0}). Please click the link below to complete your profile setup and start work with organisation.",
   "_admin_network_subject": "Join organization",
+  "_admin_removal_message": "Your account has been removed from the organisation \"{0}\". If you believe this was done in error, please contact the administrator.",
+  "_admin_removal_subject": "You have been removed from {0}",
   "_meeting_organized_by_x": "Meeting organized by <span class = \"organizer\"> {0} </span>",
   "_sent_you_sharebox": "Access to Drumee sharebox",
   "_open_link": "Open link",
