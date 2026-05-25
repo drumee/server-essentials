@@ -404,6 +404,8 @@
   "_humanresource": "人力资源",
   "_admin_network_message": "我邀请您加入我的组织（{0}）。点击下方链接，您将被要求输入您的姓名和密码，即可访问该组织。",
   "_admin_network_subject": "加入组织",
+  "_admin_removal_message": "您的账户已从组织「{0}」中被移除。如果您认为这是错误操作，请联系管理员。",
+  "_admin_removal_subject": "您已从 {0} 中被移除",
   "_meeting_organized_by_x": "<span class =\"organizer\">{0}</ span>组织的会议",
   "_sent_you_sharebox": "{0}向您发送了一个共享链接",
   "_open_link": "打开链接",

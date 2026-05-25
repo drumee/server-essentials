@@ -404,6 +404,8 @@
   "_humanresource": "Ressource humaine",
   "_admin_network_message": "Je vous invite à rejoindre mon organisation ({0}). Cliquez sur le lien ci-dessous ; il vous sera demandé de saisir votre nom et un mot de passe pour accéder à l’organisation.",
   "_admin_network_subject": "Rejoindre l'organisation",
+  "_admin_removal_message": "Votre compte a été retiré de l'organisation « {0} ». Si vous pensez qu'il s'agit d'une erreur, veuillez contacter l'administrateur.",
+  "_admin_removal_subject": "Vous avez été retiré(e) de {0}",
   "_meeting_organized_by_x": "Réunion organisée par <span class=\"organizer\">{0}</span>",
   "_sent_you_sharebox": "Partage de documents",
   "_open_link": "Ouvrir le lien",
