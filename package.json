@@ -26,12 +26,12 @@
   "dependencies": {
     "backbone": "^1.4.0",
     "file-type": "^21.3.3",
+    "googleapis": "^173.0.0",
     "https": "^1.0.0",
     "istextorbinary": "^9.5.0",
     "jsonfile": "^5.0.0",
     "lodash": "^4.17.21",
     "mariadb": "^3.5.2",
-    "googleapis": "^144.0.0",
     "nodemailer": "^8.0.5",
     "redis": "^4.6.6",
     "sanitize-html": "^2.10.0",
